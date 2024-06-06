@@ -259,3 +259,15 @@ CW Custom Metrics : https://www.youtube.com/watch?v=Fe2mEkWiNSA   (good to know)
 Gloabl Accelerator : https://www.youtube.com/watch?v=ELEW3R5vgCA. (optional / ignore)
 
 GIT : https://www.youtube.com/watch?v=rtI26X6FJX0&list=PLneBjIzDLECkdgoinrTO7D519zgPEmcte
+
+## Instructions
+- amazon-linux-extras install epel -y
+
+- yum install stress -y
+
+
+- chmod +x asgload.sh			
+==> Adding Executable permissions
+
+./asgload.sh				
+==> running the script
